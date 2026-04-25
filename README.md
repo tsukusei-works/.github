@@ -1,2 +1,2 @@
-# .github
-for profile
+# Tsukusei Works
+tsukusei.github.io
